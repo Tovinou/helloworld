@@ -1,0 +1,6 @@
+"terminal.integrated.profiles.windows": {
+    "MSYS2": {
+        "path": "C:\\msys64\\usr\\bin\\bash.exe"
+    }
+},
+"terminal.integrated.defaultProfile.windows": "MSYS2"
